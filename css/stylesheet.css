@@ -1,0 +1,9 @@
+.img-fluid{
+    position: relative;
+    float: left;
+    width:  400px;
+    height: 400px;
+    background-position: 200% 200%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+  }  
